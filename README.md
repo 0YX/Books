@@ -1,6 +1,6 @@
 # Books
 
-### Fresh summer vacation plan
+### Freshman summer vacation plan
 1. Learn [CS61A](https://inst.eecs.berkeley.edu/~cs61a/fa20/) and [CS61B](https://sp21.datastructur.es/)
 2. Learn Calculus and English
 3. Learn [MySQL](https://www.mysqltutorial.org/)
